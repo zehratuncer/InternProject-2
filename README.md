@@ -1,6 +1,6 @@
-# 🏛️ VaultCore — Kurumsal Metadata Güdümlü Doküman Yönetim ve İş Akışı Kasası
+# 🏛️ VaultCore — Kurumsal Metadata Doküman Yönetim ve İş Akışı Otomasyon Portalı
 
-> **Staj Projesi — Tofaş Bilgi Teknolojileri**
+> **Staj Projesi — TOFAŞ Bilgi Teknolojileri**
 
 M-Files mimarisinden esinlenerek geliştirilmiş kurumsal düzeyde, metadata (üstveri) güdümlü bir Doküman Yönetim Sistemi (DMS) ve İş Akışı Otomasyon platformudur. Geleneksel ve katı klasör tabanlı depolama yaklaşımını ortadan kaldırarak; çalışma zamanında (runtime) şema konfigürasyonu, dinamik form üretimi, materyalize edilmiş ACL izin motoru, check-out kilitli tam yaşam döngüsü versiyonlama, OCR destekli tam metin arama (FTS) ve kurumsal iş akışı orkestrasyonu sunan nesne odaklı bir mimariyle sıfırdan inşa edilmiştir.
 
